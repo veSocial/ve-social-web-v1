@@ -1,5 +1,6 @@
 import { React } from 'react';
 import './../../App.css';
+import { LandingNavBar, LandingPage } from './Landing';
 
 const LandingComponent = () => {
     return (
